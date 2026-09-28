@@ -10,6 +10,8 @@
 
 [Открыть игру](https://raw.githack.com/Khakimovpro/this_is_police/main/play/index.html) · [Вступительный ролик](https://raw.githubusercontent.com/Khakimovpro/this_is_police/main/public/assets/prologue.mp4)
 
+При первом открытии ссылки нажмите **Open the page** на странице сервиса просмотра GitHub-файлов.
+
 Игра работает в современном браузере. После загрузки не обращается к нейросетям и не требует ключей. Сохранение хранится в вашем браузере. При переходе на другой адрес сайта оно не переносится автоматически.
 
 ## Что внутри
