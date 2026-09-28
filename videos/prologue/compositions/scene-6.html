@@ -1,0 +1,21 @@
+<!doctype html><html><head><meta charset="UTF-8"></head><body><template>
+ <style>
+ #scene-6{position:absolute;inset:0;width:100%;height:100%;overflow:hidden;background:#173139}
+ #scene-6 .art{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+ #scene-6 .shade{position:absolute;inset:0;background:linear-gradient(0deg,#10262c 0%,#10262cef 18%,transparent 57%)}
+ #scene-6 .caption{position:absolute;left:95px;right:95px;bottom:65px;text-align:center;color:#f0ecd9}
+ #scene-6 .speaker{font:22px monospace;letter-spacing:4px;color:#f0d693}
+ #scene-6 .en{font:22px sans-serif;line-height:1.5;margin:16px 0;color:#d2ddcf}
+ #scene-6 .ru{font:30px sans-serif;line-height:1.45;margin:14px 0}
+ #scene-6 .slug{position:absolute;left:65px;top:45px;color:#e2e8d4;font:18px monospace;letter-spacing:3px}
+ </style>
+ <div id="scene-6" data-composition-id="scene-6" data-width="1600" data-height="900" data-duration="9.76">
+ <img id="scene-6-art" class="art" data-layout-allow-overflow src="assets/harbor.svg"/>
+ <div class="shade"></div><div class="slug">BELLWETHER / SEPTEMBER 1991</div>
+ <div id="scene-6-caption" class="caption"><div class="speaker">MARA VALE</div><p class="en">In this city, the water always goes down. Sooner or later, you see what is buried underneath. Put the calls through.</p><p class="ru">В этом городе вода всегда отступает. Рано или поздно становится видно, что лежит на дне. Соединяйте.</p></div>
+ </div><script>
+ (()=>{const tl=gsap.timeline({paused:true});
+ tl.fromTo('#scene-6-art',{scale:1,x:0},{scale:1.045,x:12,duration:9.76,ease:'none'},0);
+ tl.fromTo('#scene-6-caption',{opacity:0,y:12},{opacity:1,y:0,duration:.6,ease:'power2.out'},.2);
+ window.__timelines['scene-6']=tl;})();
+ </script></template></body></html>

@@ -1,0 +1,268 @@
+[
+  {
+    "asset": "intro-1.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 118,
+    "http": 200,
+    "usage": {
+      "characters": 118,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 8.84,
+    "bytes": 424364
+  },
+  {
+    "asset": "intro-2.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 104,
+    "http": 200,
+    "usage": {
+      "characters": 104,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 7.04,
+    "bytes": 337964
+  },
+  {
+    "asset": "intro-3.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 108,
+    "http": 200,
+    "usage": {
+      "characters": 108,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 7.0,
+    "bytes": 336044
+  },
+  {
+    "asset": "intro-4.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 109,
+    "http": 200,
+    "usage": {
+      "characters": 109,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 7.2,
+    "bytes": 345644
+  },
+  {
+    "asset": "intro-5.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 105,
+    "http": 200,
+    "usage": {
+      "characters": 105,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 6.72,
+    "bytes": 322604
+  },
+  {
+    "asset": "intro-6.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 116,
+    "http": 200,
+    "usage": {
+      "characters": 116,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 7.96,
+    "bytes": 382124
+  },
+  {
+    "asset": "day-1.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 107,
+    "http": 200,
+    "usage": {
+      "characters": 107,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 6.04,
+    "bytes": 289964
+  },
+  {
+    "asset": "day-2.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 111,
+    "http": 200,
+    "usage": {
+      "characters": 111,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 7.28,
+    "bytes": 349484
+  },
+  {
+    "asset": "day-3.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 112,
+    "http": 200,
+    "usage": {
+      "characters": 112,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 8.28,
+    "bytes": 397484
+  },
+  {
+    "asset": "day-4.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 110,
+    "http": 200,
+    "usage": {
+      "characters": 110,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 7.44,
+    "bytes": 357164
+  },
+  {
+    "asset": "day-5.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 90,
+    "http": 200,
+    "usage": {
+      "characters": 90,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 5.0,
+    "bytes": 240044
+  },
+  {
+    "asset": "day-6.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 109,
+    "http": 200,
+    "usage": {
+      "characters": 109,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 6.72,
+    "bytes": 322604
+  },
+  {
+    "asset": "day-7.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 117,
+    "http": 200,
+    "usage": {
+      "characters": 117,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 7.68,
+    "bytes": 368684
+  },
+  {
+    "asset": "ending-clean.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 108,
+    "http": 200,
+    "usage": {
+      "characters": 108,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 9.6,
+    "bytes": 460844
+  },
+  {
+    "asset": "ending-dirty.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 102,
+    "http": 200,
+    "usage": {
+      "characters": 102,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 6.08,
+    "bytes": 291884
+  },
+  {
+    "asset": "ending-poor.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 113,
+    "http": 200,
+    "usage": {
+      "characters": 113,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 8.12,
+    "bytes": 389804
+  },
+  {
+    "asset": "ending-fired.mp3",
+    "model": "google/gemini-3.8-flash-tts",
+    "characters": 85,
+    "http": 200,
+    "usage": {
+      "characters": 85,
+      "cost_rub": 0,
+      "cost": 0
+    },
+    "generation_id": null,
+    "seconds": 6.16,
+    "bytes": 295724
+  },
+  {
+    "asset": "night-watch.mp3",
+    "model": "google/lyria-3-pro-preview",
+    "forecast_rub": 8,
+    "http": 200,
+    "usage": {
+      "output_units": 1,
+      "cost_rub": 8,
+      "cost": 8
+    },
+    "generation_id": "gen_2215881365401767937",
+    "seconds": 114.886458,
+    "bytes": 2763350
+  },
+  {
+    "asset": "low-tide.mp3",
+    "model": "google/lyria-3-pro-preview",
+    "forecast_rub": 8,
+    "http": 200,
+    "usage": {
+      "output_units": 1,
+      "cost_rub": 8,
+      "cost": 8
+    },
+    "generation_id": "gen_2215881518661636097",
+    "seconds": 121.12975,
+    "bytes": 2913189
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.5,
+    "end": 10.24,
+    "id": "intro-1",
+    "speaker": "MARA VALE",
+    "voice": "Charon",
+    "en": "Bellwether. September, nineteen ninety-one. They gave me a badge, a flooded city, and seven days to make it disappear.",
+    "ru": "Беллвезер. Сентябрь 1991-го. Мне дали значок, тонущий город и семь дней, чтобы замести следы.",
+    "scene": "harbor"
+  },
+  {
+    "start": 11.14,
+    "end": 19.08,
+    "id": "intro-2",
+    "speaker": "ELIAS VALE",
+    "voice": "Puck",
+    "en": "Mara, I copied the port ledger. They are not buying the docks. They are buying everyone who works there.",
+    "ru": "Мара, я скопировал портовую книгу. Они покупают не доки. Они покупают всех, кто там работает.",
+    "scene": "phone"
+  },
+  {
+    "start": 19.98,
+    "end": 27.88,
+    "id": "intro-3",
+    "speaker": "MARA VALE",
+    "voice": "Charon",
+    "en": "My brother was an accountant. Now he is a witness. Forty thousand dollars buys him a new name and a way out.",
+    "ru": "Мой брат был бухгалтером. Теперь он свидетель. Сорок тысяч долларов — цена нового имени и дороги из города.",
+    "scene": "office"
+  },
+  {
+    "start": 28.78,
+    "end": 36.88,
+    "id": "intro-4",
+    "speaker": "VICTOR SHAW",
+    "voice": "Fenrir",
+    "en": "Chief, the port sale closes on Sunday. Keep the streets quiet, and this city will take very good care of you.",
+    "ru": "Шеф, порт продают в воскресенье. Обеспечьте тишину на улицах, и город о вас позаботится.",
+    "scene": "office"
+  },
+  {
+    "start": 37.78,
+    "end": 45.4,
+    "id": "intro-5",
+    "speaker": "ADA REYES",
+    "voice": "Kore",
+    "en": "Dispatch is holding three calls. Half our officers need sleep. Tell me what kind of chief you plan to be.",
+    "ru": "На линии уже три вызова. Половине наших нужен сон. Скажите, каким начальником вы собираетесь стать.",
+    "scene": "dispatch"
+  },
+  {
+    "start": 46.3,
+    "end": 55.16,
+    "id": "intro-6",
+    "speaker": "MARA VALE",
+    "voice": "Charon",
+    "en": "In this city, the water always goes down. Sooner or later, you see what is buried underneath. Put the calls through.",
+    "ru": "В этом городе вода всегда отступает. Рано или поздно становится видно, что лежит на дне. Соединяйте.",
+    "scene": "harbor"
+  }
+]

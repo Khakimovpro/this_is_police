@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "desktop": [
+    1440,
+    1000
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "consoleErrors": [],
+  "failedRequests": [],
+  "checks": [
+    "new game",
+    "narrated intro",
+    "dispatch",
+    "busy officers",
+    "save and reload",
+    "paused clock",
+    "volume persistence",
+    "mobile overflow",
+    "offer decision",
+    "keyboard pause",
+    "real timer advancement",
+    "crew return and payment",
+    "voice playback",
+    "music playback",
+    "Russian subtitles",
+    "scroll and focus survive ticks",
+    "subtitles in all four endings"
+  ]
+}

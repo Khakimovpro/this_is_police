@@ -1,0 +1,2227 @@
+{
+  "composition": "/home/claude/this_is_police/videos/prologue",
+  "duration": 55.56,
+  "totalTweens": 12,
+  "mappedTweens": 12,
+  "skippedMicroTweens": 0,
+  "tweens": [
+    {
+      "index": 1,
+      "selector": "#scene-1-art",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "start": 0,
+      "end": 10.64,
+      "duration": 10.64,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 0.887,
+          "x": -4,
+          "y": -2,
+          "w": 1606,
+          "h": 903,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 2.66,
+          "x": -12,
+          "y": -5,
+          "w": 1618,
+          "h": 910,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 4.433,
+          "x": -20,
+          "y": -8,
+          "w": 1630,
+          "h": 917,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 6.207,
+          "x": -28,
+          "y": -12,
+          "w": 1642,
+          "h": 924,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 7.98,
+          "x": -36,
+          "y": -15,
+          "w": 1654,
+          "h": 930,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 9.753,
+          "x": -44,
+          "y": -19,
+          "w": 1666,
+          "h": 937,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "#scene-1-art animates scale+x over 10.64s (none). moves 17px up and 40px left. scales. width 1606→1666px. height 903→937px. ends at (-44, -19) 1666×937px. FLAGS: paced-slow."
+    },
+    {
+      "index": 2,
+      "selector": "#scene-1-caption",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "start": 0.2,
+      "end": 0.8,
+      "duration": 0.6,
+      "ease": "power2.out",
+      "bboxes": [
+        {
+          "t": 0.25,
+          "x": 95,
+          "y": 698,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.1576,
+          "visible": true
+        },
+        {
+          "t": 0.35,
+          "x": 95,
+          "y": 693,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.5295,
+          "visible": true
+        },
+        {
+          "t": 0.45,
+          "x": 95,
+          "y": 690,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.7718,
+          "visible": true
+        },
+        {
+          "t": 0.55,
+          "x": 95,
+          "y": 689,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.9122,
+          "visible": true
+        },
+        {
+          "t": 0.65,
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.9786,
+          "visible": true
+        },
+        {
+          "t": 0.75,
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.9986,
+          "visible": true
+        }
+      ],
+      "flags": [],
+      "summary": "#scene-1-caption animates opacity+y over 0.60s (power2.out). moves 10px up. opacity 0.2→1.0. ends at (95, 688) 1410×148px."
+    },
+    {
+      "index": 3,
+      "selector": "#scene-2-art",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "start": 10.64,
+      "end": 19.48,
+      "duration": 8.84,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 11.377,
+          "x": -2,
+          "y": -2,
+          "w": 1606,
+          "h": 903,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 12.85,
+          "x": -6,
+          "y": -5,
+          "w": 1618,
+          "h": 910,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 14.323,
+          "x": -10,
+          "y": -8,
+          "w": 1630,
+          "h": 917,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 15.797,
+          "x": -14,
+          "y": -12,
+          "w": 1642,
+          "h": 923,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 17.27,
+          "x": -18,
+          "y": -15,
+          "w": 1654,
+          "h": 930,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 18.743,
+          "x": -22,
+          "y": -19,
+          "w": 1666,
+          "h": 937,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "#scene-2-art animates scale+x over 8.84s (none). moves 17px up and 20px left. scales. width 1606→1666px. height 903→937px. ends at (-22, -19) 1666×937px. FLAGS: paced-slow."
+    },
+    {
+      "index": 4,
+      "selector": "#scene-2-caption",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "start": 10.84,
+      "end": 11.44,
+      "duration": 0.6,
+      "ease": "power2.out",
+      "bboxes": [
+        {
+          "t": 10.89,
+          "x": 95,
+          "y": 698,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.1275,
+          "visible": true
+        },
+        {
+          "t": 10.99,
+          "x": 95,
+          "y": 693,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.509,
+          "visible": true
+        },
+        {
+          "t": 11.09,
+          "x": 95,
+          "y": 690,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.7591,
+          "visible": true
+        },
+        {
+          "t": 11.19,
+          "x": 95,
+          "y": 689,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.9055,
+          "visible": true
+        },
+        {
+          "t": 11.29,
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.9759,
+          "visible": true
+        },
+        {
+          "t": 11.39,
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.9982,
+          "visible": true
+        }
+      ],
+      "flags": [],
+      "summary": "#scene-2-caption animates opacity+y over 0.60s (power2.out). moves 10px up. opacity 0.1→1.0. ends at (95, 688) 1410×148px."
+    },
+    {
+      "index": 5,
+      "selector": "#scene-3-art",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "start": 19.48,
+      "end": 28.28,
+      "duration": 8.8,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 20.213,
+          "x": -4,
+          "y": -2,
+          "w": 1606,
+          "h": 903,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 21.68,
+          "x": -12,
+          "y": -5,
+          "w": 1618,
+          "h": 910,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 23.147,
+          "x": -20,
+          "y": -8,
+          "w": 1630,
+          "h": 917,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 24.613,
+          "x": -28,
+          "y": -12,
+          "w": 1642,
+          "h": 924,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 26.08,
+          "x": -36,
+          "y": -15,
+          "w": 1654,
+          "h": 930,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 27.547,
+          "x": -44,
+          "y": -19,
+          "w": 1666,
+          "h": 937,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "#scene-3-art animates scale+x over 8.80s (none). moves 17px up and 40px left. scales. width 1606→1666px. height 903→937px. ends at (-44, -19) 1666×937px. FLAGS: paced-slow."
+    },
+    {
+      "index": 6,
+      "selector": "#scene-3-caption",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "start": 19.68,
+      "end": 20.28,
+      "duration": 0.6,
+      "ease": "power2.out",
+      "bboxes": [
+        {
+          "t": 19.73,
+          "x": 95,
+          "y": 655,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.0967,
+          "visible": true
+        },
+        {
+          "t": 19.83,
+          "x": 95,
+          "y": 650,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.488,
+          "visible": true
+        },
+        {
+          "t": 19.93,
+          "x": 95,
+          "y": 647,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.746,
+          "visible": true
+        },
+        {
+          "t": 20.03,
+          "x": 95,
+          "y": 645,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.8984,
+          "visible": true
+        },
+        {
+          "t": 20.13,
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.973,
+          "visible": true
+        },
+        {
+          "t": 20.23,
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.9976,
+          "visible": true
+        }
+      ],
+      "flags": [],
+      "summary": "#scene-3-caption animates opacity+y over 0.60s (power2.out). moves 11px up. fades in. ends at (95, 644) 1410×191px."
+    },
+    {
+      "index": 7,
+      "selector": "#scene-4-art",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "start": 28.28,
+      "end": 37.28,
+      "duration": 9,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 29.03,
+          "x": -2,
+          "y": -2,
+          "w": 1606,
+          "h": 903,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 30.53,
+          "x": -6,
+          "y": -5,
+          "w": 1618,
+          "h": 910,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 32.03,
+          "x": -10,
+          "y": -8,
+          "w": 1630,
+          "h": 917,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 33.53,
+          "x": -14,
+          "y": -12,
+          "w": 1642,
+          "h": 923,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 35.03,
+          "x": -18,
+          "y": -15,
+          "w": 1654,
+          "h": 930,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 36.53,
+          "x": -22,
+          "y": -18,
+          "w": 1666,
+          "h": 937,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "#scene-4-art animates scale+x over 9.00s (none). moves 16px up and 20px left. scales. width 1606→1666px. height 903→937px. ends at (-22, -18) 1666×937px. FLAGS: paced-slow."
+    },
+    {
+      "index": 8,
+      "selector": "#scene-4-caption",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "start": 28.48,
+      "end": 29.08,
+      "duration": 0.6,
+      "ease": "power2.out",
+      "bboxes": [
+        {
+          "t": 28.53,
+          "x": 95,
+          "y": 698,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.0967,
+          "visible": true
+        },
+        {
+          "t": 28.63,
+          "x": 95,
+          "y": 694,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.488,
+          "visible": true
+        },
+        {
+          "t": 28.73,
+          "x": 95,
+          "y": 691,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.746,
+          "visible": true
+        },
+        {
+          "t": 28.83,
+          "x": 95,
+          "y": 689,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.8984,
+          "visible": true
+        },
+        {
+          "t": 28.93,
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.973,
+          "visible": true
+        },
+        {
+          "t": 29.03,
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 0.9976,
+          "visible": true
+        }
+      ],
+      "flags": [],
+      "summary": "#scene-4-caption animates opacity+y over 0.60s (power2.out). moves 10px up. fades in. ends at (95, 688) 1410×148px."
+    },
+    {
+      "index": 9,
+      "selector": "#scene-5-art",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "start": 37.28,
+      "end": 45.8,
+      "duration": 8.52,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 37.99,
+          "x": -4,
+          "y": -2,
+          "w": 1606,
+          "h": 903,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 39.41,
+          "x": -12,
+          "y": -5,
+          "w": 1618,
+          "h": 910,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 40.83,
+          "x": -20,
+          "y": -8,
+          "w": 1630,
+          "h": 917,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 42.25,
+          "x": -28,
+          "y": -12,
+          "w": 1642,
+          "h": 924,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 43.67,
+          "x": -36,
+          "y": -15,
+          "w": 1654,
+          "h": 930,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 45.09,
+          "x": -44,
+          "y": -18,
+          "w": 1666,
+          "h": 937,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "#scene-5-art animates scale+x over 8.52s (none). moves 16px up and 40px left. scales. width 1606→1666px. height 903→937px. ends at (-44, -18) 1666×937px. FLAGS: paced-slow."
+    },
+    {
+      "index": 10,
+      "selector": "#scene-5-caption",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "start": 37.48,
+      "end": 38.08,
+      "duration": 0.6,
+      "ease": "power2.out",
+      "bboxes": [
+        {
+          "t": 37.53,
+          "x": 95,
+          "y": 655,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.0967,
+          "visible": true
+        },
+        {
+          "t": 37.63,
+          "x": 95,
+          "y": 650,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.488,
+          "visible": true
+        },
+        {
+          "t": 37.73,
+          "x": 95,
+          "y": 647,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.746,
+          "visible": true
+        },
+        {
+          "t": 37.83,
+          "x": 95,
+          "y": 645,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.8984,
+          "visible": true
+        },
+        {
+          "t": 37.93,
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.973,
+          "visible": true
+        },
+        {
+          "t": 38.03,
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.9976,
+          "visible": true
+        }
+      ],
+      "flags": [],
+      "summary": "#scene-5-caption animates opacity+y over 0.60s (power2.out). moves 11px up. fades in. ends at (95, 644) 1410×191px."
+    },
+    {
+      "index": 11,
+      "selector": "#scene-6-art",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "start": 45.8,
+      "end": 55.56,
+      "duration": 9.76,
+      "ease": "none",
+      "bboxes": [
+        {
+          "t": 46.613,
+          "x": -2,
+          "y": -2,
+          "w": 1606,
+          "h": 903,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 48.24,
+          "x": -6,
+          "y": -5,
+          "w": 1618,
+          "h": 910,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 49.867,
+          "x": -10,
+          "y": -8,
+          "w": 1630,
+          "h": 917,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 51.493,
+          "x": -14,
+          "y": -12,
+          "w": 1642,
+          "h": 923,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 53.12,
+          "x": -18,
+          "y": -15,
+          "w": 1654,
+          "h": 930,
+          "opacity": 1,
+          "visible": true
+        },
+        {
+          "t": 54.747,
+          "x": -22,
+          "y": -19,
+          "w": 1666,
+          "h": 937,
+          "opacity": 1,
+          "visible": true
+        }
+      ],
+      "flags": [
+        "paced-slow"
+      ],
+      "summary": "#scene-6-art animates scale+x over 9.76s (none). moves 17px up and 20px left. scales. width 1606→1666px. height 903→937px. ends at (-22, -19) 1666×937px. FLAGS: paced-slow."
+    },
+    {
+      "index": 12,
+      "selector": "#scene-6-caption",
+      "driver": "target",
+      "targets": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "start": 46,
+      "end": 46.6,
+      "duration": 0.6,
+      "ease": "power2.out",
+      "bboxes": [
+        {
+          "t": 46.05,
+          "x": 95,
+          "y": 654,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.1576,
+          "visible": true
+        },
+        {
+          "t": 46.15,
+          "x": 95,
+          "y": 650,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.5295,
+          "visible": true
+        },
+        {
+          "t": 46.25,
+          "x": 95,
+          "y": 647,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.7718,
+          "visible": true
+        },
+        {
+          "t": 46.35,
+          "x": 95,
+          "y": 645,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.9122,
+          "visible": true
+        },
+        {
+          "t": 46.45,
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.9786,
+          "visible": true
+        },
+        {
+          "t": 46.55,
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 0.9986,
+          "visible": true
+        }
+      ],
+      "flags": [],
+      "summary": "#scene-6-caption animates opacity+y over 0.60s (power2.out). moves 10px up. opacity 0.2→1.0. ends at (95, 644) 1410×191px."
+    }
+  ],
+  "choreography": "Timeline (55.6s, each char ≈ 0.93s):\n  0s                                                    56s\n  ┼───────────────────────────────────────────────────────────┤\n  ████████████                                                  #scene-1-art scale+x\n  █                                                             #scene-1-caption opacity+y\n             ███████████                                        #scene-2-art scale+x\n             ██                                                 #scene-2-caption opacity+y\n                       ██████████                               #scene-3-art scale+x\n                       █                                        #scene-3-caption opacity+y\n                                ███████████                     #scene-4-art scale+x\n                                ██                              #scene-4-caption opacity+y\n                                          ██████████            #scene-5-art scale+x\n                                          ██                    #scene-5-caption opacity+y\n                                                   ███████████  #scene-6-art scale+x\n                                                   ██           #scene-6-caption opacity+y",
+  "density": [
+    {
+      "t": 0,
+      "activeTweens": 2
+    },
+    {
+      "t": 0.5,
+      "activeTweens": 2
+    },
+    {
+      "t": 1,
+      "activeTweens": 1
+    },
+    {
+      "t": 1.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 2,
+      "activeTweens": 1
+    },
+    {
+      "t": 2.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 3,
+      "activeTweens": 1
+    },
+    {
+      "t": 3.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 4,
+      "activeTweens": 1
+    },
+    {
+      "t": 4.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 5,
+      "activeTweens": 1
+    },
+    {
+      "t": 5.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 6,
+      "activeTweens": 1
+    },
+    {
+      "t": 6.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 7,
+      "activeTweens": 1
+    },
+    {
+      "t": 7.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 8,
+      "activeTweens": 1
+    },
+    {
+      "t": 8.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 9,
+      "activeTweens": 1
+    },
+    {
+      "t": 9.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 10,
+      "activeTweens": 1
+    },
+    {
+      "t": 10.5,
+      "activeTweens": 3
+    },
+    {
+      "t": 11,
+      "activeTweens": 2
+    },
+    {
+      "t": 11.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 12,
+      "activeTweens": 1
+    },
+    {
+      "t": 12.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 13,
+      "activeTweens": 1
+    },
+    {
+      "t": 13.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 14,
+      "activeTweens": 1
+    },
+    {
+      "t": 14.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 15,
+      "activeTweens": 1
+    },
+    {
+      "t": 15.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 16,
+      "activeTweens": 1
+    },
+    {
+      "t": 16.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 17,
+      "activeTweens": 1
+    },
+    {
+      "t": 17.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 18,
+      "activeTweens": 1
+    },
+    {
+      "t": 18.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 19,
+      "activeTweens": 2
+    },
+    {
+      "t": 19.5,
+      "activeTweens": 2
+    },
+    {
+      "t": 20,
+      "activeTweens": 2
+    },
+    {
+      "t": 20.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 21,
+      "activeTweens": 1
+    },
+    {
+      "t": 21.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 22,
+      "activeTweens": 1
+    },
+    {
+      "t": 22.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 23,
+      "activeTweens": 1
+    },
+    {
+      "t": 23.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 24,
+      "activeTweens": 1
+    },
+    {
+      "t": 24.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 25,
+      "activeTweens": 1
+    },
+    {
+      "t": 25.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 26,
+      "activeTweens": 1
+    },
+    {
+      "t": 26.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 27,
+      "activeTweens": 1
+    },
+    {
+      "t": 27.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 28,
+      "activeTweens": 3
+    },
+    {
+      "t": 28.5,
+      "activeTweens": 2
+    },
+    {
+      "t": 29,
+      "activeTweens": 2
+    },
+    {
+      "t": 29.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 30,
+      "activeTweens": 1
+    },
+    {
+      "t": 30.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 31,
+      "activeTweens": 1
+    },
+    {
+      "t": 31.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 32,
+      "activeTweens": 1
+    },
+    {
+      "t": 32.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 33,
+      "activeTweens": 1
+    },
+    {
+      "t": 33.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 34,
+      "activeTweens": 1
+    },
+    {
+      "t": 34.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 35,
+      "activeTweens": 1
+    },
+    {
+      "t": 35.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 36,
+      "activeTweens": 1
+    },
+    {
+      "t": 36.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 37,
+      "activeTweens": 3
+    },
+    {
+      "t": 37.5,
+      "activeTweens": 2
+    },
+    {
+      "t": 38,
+      "activeTweens": 2
+    },
+    {
+      "t": 38.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 39,
+      "activeTweens": 1
+    },
+    {
+      "t": 39.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 40,
+      "activeTweens": 1
+    },
+    {
+      "t": 40.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 41,
+      "activeTweens": 1
+    },
+    {
+      "t": 41.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 42,
+      "activeTweens": 1
+    },
+    {
+      "t": 42.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 43,
+      "activeTweens": 1
+    },
+    {
+      "t": 43.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 44,
+      "activeTweens": 1
+    },
+    {
+      "t": 44.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 45,
+      "activeTweens": 1
+    },
+    {
+      "t": 45.5,
+      "activeTweens": 3
+    },
+    {
+      "t": 46,
+      "activeTweens": 2
+    },
+    {
+      "t": 46.5,
+      "activeTweens": 2
+    },
+    {
+      "t": 47,
+      "activeTweens": 1
+    },
+    {
+      "t": 47.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 48,
+      "activeTweens": 1
+    },
+    {
+      "t": 48.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 49,
+      "activeTweens": 1
+    },
+    {
+      "t": 49.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 50,
+      "activeTweens": 1
+    },
+    {
+      "t": 50.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 51,
+      "activeTweens": 1
+    },
+    {
+      "t": 51.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 52,
+      "activeTweens": 1
+    },
+    {
+      "t": 52.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 53,
+      "activeTweens": 1
+    },
+    {
+      "t": 53.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 54,
+      "activeTweens": 1
+    },
+    {
+      "t": 54.5,
+      "activeTweens": 1
+    },
+    {
+      "t": 55,
+      "activeTweens": 1
+    },
+    {
+      "t": 55.5,
+      "activeTweens": 1
+    }
+  ],
+  "staggers": [],
+  "elements": {
+    "#scene-1-art": {
+      "firstAppears": 0,
+      "lastAnimates": 10.64,
+      "tweenCount": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": -44,
+        "y": -19,
+        "w": 1666,
+        "h": 937
+      }
+    },
+    "#scene-1-caption": {
+      "firstAppears": 0.2,
+      "lastAnimates": 0.8,
+      "tweenCount": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 95,
+        "y": 688,
+        "w": 1410,
+        "h": 148
+      }
+    },
+    "#scene-2-art": {
+      "firstAppears": 10.64,
+      "lastAnimates": 19.48,
+      "tweenCount": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": -22,
+        "y": -19,
+        "w": 1666,
+        "h": 937
+      }
+    },
+    "#scene-2-caption": {
+      "firstAppears": 10.84,
+      "lastAnimates": 11.44,
+      "tweenCount": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 95,
+        "y": 688,
+        "w": 1410,
+        "h": 148
+      }
+    },
+    "#scene-3-art": {
+      "firstAppears": 19.48,
+      "lastAnimates": 28.28,
+      "tweenCount": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": -44,
+        "y": -19,
+        "w": 1666,
+        "h": 937
+      }
+    },
+    "#scene-3-caption": {
+      "firstAppears": 19.68,
+      "lastAnimates": 20.28,
+      "tweenCount": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 95,
+        "y": 644,
+        "w": 1410,
+        "h": 191
+      }
+    },
+    "#scene-4-art": {
+      "firstAppears": 28.28,
+      "lastAnimates": 37.28,
+      "tweenCount": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": -22,
+        "y": -18,
+        "w": 1666,
+        "h": 937
+      }
+    },
+    "#scene-4-caption": {
+      "firstAppears": 28.48,
+      "lastAnimates": 29.08,
+      "tweenCount": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 95,
+        "y": 688,
+        "w": 1410,
+        "h": 148
+      }
+    },
+    "#scene-5-art": {
+      "firstAppears": 37.28,
+      "lastAnimates": 45.8,
+      "tweenCount": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": -44,
+        "y": -18,
+        "w": 1666,
+        "h": 937
+      }
+    },
+    "#scene-5-caption": {
+      "firstAppears": 37.48,
+      "lastAnimates": 38.08,
+      "tweenCount": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 95,
+        "y": 644,
+        "w": 1410,
+        "h": 191
+      }
+    },
+    "#scene-6-art": {
+      "firstAppears": 45.8,
+      "lastAnimates": 55.56,
+      "tweenCount": 1,
+      "props": [
+        "scale",
+        "x"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": -22,
+        "y": -19,
+        "w": 1666,
+        "h": 937
+      }
+    },
+    "#scene-6-caption": {
+      "firstAppears": 46,
+      "lastAnimates": 46.6,
+      "tweenCount": 1,
+      "props": [
+        "opacity",
+        "y"
+      ],
+      "endsVisible": true,
+      "finalPosition": {
+        "x": 95,
+        "y": 644,
+        "w": 1410,
+        "h": 191
+      }
+    }
+  },
+  "deadZones": [],
+  "snapshots": [
+    {
+      "t": 0,
+      "visibleElements": 13,
+      "animatingNow": [
+        "#scene-1-art"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "t": 13.89,
+      "visibleElements": 15,
+      "animatingNow": [
+        "#scene-2-art"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1-art",
+          "x": -48,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2-art",
+          "x": -9,
+          "y": -7,
+          "w": 1626,
+          "h": 915,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "t": 27.78,
+      "visibleElements": 16,
+      "animatingNow": [
+        "#scene-3-art"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1-art",
+          "x": -48,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2-art",
+          "x": -24,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3-art",
+          "x": -45,
+          "y": -19,
+          "w": 1668,
+          "h": 938,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3-caption",
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "t": 41.67,
+      "visibleElements": 18,
+      "animatingNow": [
+        "#scene-5-art"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1-art",
+          "x": -48,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2-art",
+          "x": -24,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3-art",
+          "x": -48,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3-caption",
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4-art",
+          "x": -24,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5-art",
+          "x": -25,
+          "y": -10,
+          "w": 1637,
+          "h": 921,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5-caption",
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6-art",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "t": 55.46,
+      "visibleElements": 19,
+      "animatingNow": [
+        "#scene-6-art"
+      ],
+      "elements": [
+        {
+          "id": "root",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1-art",
+          "x": -48,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-1-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2-art",
+          "x": -24,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-2-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3-art",
+          "x": -48,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-3-caption",
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4-art",
+          "x": -24,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-4-caption",
+          "x": 95,
+          "y": 688,
+          "w": 1410,
+          "h": 148,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5-art",
+          "x": -48,
+          "y": -20,
+          "w": 1672,
+          "h": 941,
+          "opacity": 1
+        },
+        {
+          "id": "scene-5-caption",
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6",
+          "x": 0,
+          "y": 0,
+          "w": 1600,
+          "h": 900,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6-art",
+          "x": -24,
+          "y": -20,
+          "w": 1671,
+          "h": 940,
+          "opacity": 1
+        },
+        {
+          "id": "scene-6-caption",
+          "x": 95,
+          "y": 644,
+          "w": 1410,
+          "h": 191,
+          "opacity": 1
+        }
+      ]
+    }
+  ]
+}
